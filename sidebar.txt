@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdn:home|Door43 (mdn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdn|d43-mdn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdn/archive/master.zip|d43-mdn.zip]]
+
+**Recent Changes**
+{{changes>ns = mdn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdn|Ethnologue data]]
+
